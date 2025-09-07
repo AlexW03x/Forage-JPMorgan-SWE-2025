@@ -6,6 +6,6 @@ import java.util.Optional;
 
 public interface UserRepository extends CrudRepository<UserRecord, Long> {
     Optional<UserRecord> findById(long id);
-    // Add this new method
+
     Optional<UserRecord> findByName(String name);
 }

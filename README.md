@@ -1,1 +1,2 @@
-> My attempt at the JP Morgan Virtual Work Experience Software Engineering Series of Tasks for a Certification
+# Midas
+Project repo for the JPMC Advanced Software Engineering Forage program
